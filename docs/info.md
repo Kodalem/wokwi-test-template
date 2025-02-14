@@ -10,11 +10,15 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 Explain how your project works
+Mandatory info change change here
 
 ## How to test
 
 Explain how to use your project
 
+Input 0 and 1 are addresses of 2-bit, output then decodes to 4 addresses.
+
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+4 LED Pins recommended.
+
