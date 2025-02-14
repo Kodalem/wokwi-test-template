@@ -12,6 +12,8 @@ You can also include images in this folder and reference them in the markdown. E
 Explain how your project works
 Mandatory info change change here
 
+Mandatory addition of text here unless I want this to fail.
+
 ## How to test
 
 Explain how to use your project
